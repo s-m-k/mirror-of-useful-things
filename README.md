@@ -3,3 +3,4 @@ An ever-growing compilation (and a mirror - the more, the merrier) of useful pro
 Sources:
 1. bithacks.html - https://graphics.stanford.edu/~seander/bithacks.html
 2. opengl-insights.pdf - https://web.archive.org/web/20130605183900/https://www.seas.upenn.edu/~pcozzi/OpenGLInsights/OpenGLInsights-AsynchronousBufferTransfers.pdf (original link was taken down)
+3. geomstiffness_preprint.pdf - https://cs.mcgill.ca/~sandre17/geomstiffness/
